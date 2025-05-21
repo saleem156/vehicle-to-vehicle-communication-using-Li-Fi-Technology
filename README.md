@@ -1,2 +1,1 @@
-#vehicle to vehicle communication using Li-Fi technology
 vehicle-to-vehicle communication is seen as the best way to reduce traffic. Since there are too many vehicles on the roads, accidents occur from time to time. Li-Fi (Light Fidelity) uses light fidelity technology to send andreceive vehicle information quickly and reliably. Here LED is used as Transmitter and LDR(Light Dependent Resistor) is used as Receiver.
