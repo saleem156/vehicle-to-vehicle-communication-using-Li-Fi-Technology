@@ -1,0 +1,29 @@
+# Arduino build files
+*.hex
+*.elf
+*.eep
+
+# Arduino IDE specific
+*.ino.cpp
+*.bak
+*.d
+*.dep
+*.lst
+*.map
+*.o
+*.obj
+*.a
+
+# VS Code + Arduino extension
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
